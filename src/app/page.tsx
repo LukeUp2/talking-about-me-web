@@ -25,10 +25,10 @@ export default function Home() {
           registradas em sites, produtos e marketplaces.
         </p>
         <Link
-          href="pages/auth"
+          href="pages/search-brand"
           className="bg-blue-600 text-white font-semibold px-8 py-4 rounded-xl hover:bg-blue-700 transition-all"
         >
-          Comece agora gratuitamente
+          Pesquise minha marca
         </Link>
       </section>
 
